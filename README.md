@@ -2,13 +2,12 @@
 
 Repositorio del departamento de Marketing de Unicaja Baloncesto
 
-EN ESTE REPOSITORIO PODRÁS ENCONTRAT
+EN ESTE REPOSITORIO PODRÁS ENCONTRAR
 
-Imagees del equipo
+Imagenes del equipo
 Informes sobre campañas de abonos
 
 WEB DEL CLUB 
 La web oficial del club es Unicaja Baloncesto
-
- https://www.unicajabaloncesto.com/Images/Web/logo.png
- z
+ xmlns =  https://www.unicajabaloncesto.com/Images/Web/logo.png
+ 
